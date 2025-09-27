@@ -12,3 +12,4 @@ pip3 install -r requirements.txt
 - **n0kovo's** wordlists: [Can be downloaded from here](https://github.com/n0kovo/n0kovo_subdomains)
 
 
+# subbruteforcer
